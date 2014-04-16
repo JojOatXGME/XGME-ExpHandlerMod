@@ -1,0 +1,16 @@
+build-experience:
+    enabled: false
+    divisor: 20
+    place:
+        default: 1
+        obsidian: 2
+    break:
+        default: 1
+        obsidian: 2
+bonus:
+    enabled: false
+    available:
+    - 10
+    - 25
+    - 33
+    - 50

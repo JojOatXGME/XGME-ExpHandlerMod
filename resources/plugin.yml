@@ -1,0 +1,13 @@
+name: 'XGME-ExpHandlerMod'
+main: de.xgme.mc.experience.ExpHandlerMod
+version: 1.0
+
+author: JojOatXGME
+website: http://xgme.de/
+description: >
+    Add some advanced settings for the ways to get experience in Minecraft.
+
+database: false
+load: POSTWORLD
+
+commands: {}
